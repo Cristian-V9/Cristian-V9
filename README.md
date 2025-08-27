@@ -36,11 +36,6 @@ This repository stores my projects, mostly using ASP.NET Core and tools like Ant
 
 ---
 
-## 📈 Estadísticas / Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-v9&show_icons=true&locale=en&layout=compact" alt="cristian-v9" /></p>
-
----
 
 ## 📫 Contacto / Contact
 
